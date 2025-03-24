@@ -21,8 +21,4 @@ public class Product {
     private Double discount;
     private Integer available;
 
-    public String getAvailabilityStatus() {
-        return available.equals(1) ? "Available" : "Unavailable";
-    }
-
 }

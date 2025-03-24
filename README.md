@@ -17,3 +17,5 @@
 - Docker && docker-compose
 
 ## How to run
+- In the root folder run "docker compose up"
+- The application will be running on localhost:8080
